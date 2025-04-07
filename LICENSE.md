@@ -1,22 +1,16 @@
-LICENSE
-Copyright © [2025] [Rodríguez Cervantes Kevin Manzur, Guadalupe Yamileth Valadez Carmona, Cruz Ovando Cristela Adelaida]
-Todos los derechos reservados.
+**Licencia de Propiedad Exclusiva (Trabajo Académico en Desarrollo):**
 
-Este software y su código fuente son propiedad exclusiva de [Rodríguez Cervantes Kevin Manzur, Guadalupe Yamileth Valadez Carmona, Cruz Ovando Cristela Adelaida]. Su uso, copia, modificación, distribución o venta sin autorización expresa por escrito del titular de los derechos de autor está estrictamente prohibido.
+Este proyecto, en su estado actual de desarrollo (versión 6.50) y como trabajo académico para la UACM, se encuentra bajo una **licencia de propiedad exclusiva** de los colaboradores de esta versión (Rodríguez Cervantes Kevin Manzur, Valadez Carmona Guadalupe Yamileth, Cruz Ovando Cristela Adelaida).
 
-1. Uso Autorizado
-Se concede permiso únicamente al titular del repositorio y a los colaboradores aprobados para acceder, revisar y utilizar este software bajo las condiciones establecidas.
+**Términos de la Licencia:**
 
-2. Restricciones
-Queda estrictamente prohibido:
+* **Prohibición de Manipulación y Reproducción:** Queda estrictamente prohibida cualquier manipulación, modificación o reproducción total o parcial del proyecto sin el consentimiento explícito y por escrito de todos los colaboradores de la versión 6.50.
+* **Prohibición de Uso Comercial:** Se prohíbe explícitamente la utilización del proyecto o de cualquier parte del mismo para fines comerciales de cualquier índole.
+* **Otras Acciones Prohibidas:** Se restringe cualquier otra acción que pueda infringir los derechos de propiedad intelectual de los colaboradores de la versión 6.50.
+* **Integridad de la Licencia:** Ninguno de los colaboradores está autorizado a modificar o revocar los términos de esta licencia sin el consentimiento unánime de todos los colaboradores de la versión 6.50.
 
-Distribuir, sublicenciar o revender este software en su totalidad o en partes.
-Realizar modificaciones sin la autorización del propietario.
-Usar este software para fines comerciales sin permiso explícito.
-3. Exclusión de Garantías
-Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita. El propietario no será responsable de ningún daño derivado del uso o mal uso del software.
+**Versiones Anteriores:**
 
-4. Versionado
-Este software se encuentra en la versión [5.0]. Todas las actualizaciones estarán documentadas en el archivo CHANGELOG.md.
+Las versiones anteriores del proyecto (específicamente la versión 4.00) están sujetas a los acuerdos de colaboración y propiedad intelectual definidos en su momento por los colaboradores de dicha versión (Rodríguez Cervantes Kevin Manzur, Valadez Carmona Guadalupe Yamileth, Cruz Ovando Cristela Adelaida, Rodríguez Sánchez Diana Fabiola, Romero Cervantes Fátima Daniela).
 
-
+**Nota Importante:** Dado que la versión 6.50 es un trabajo académico en desarrollo y la definición precisa de los derechos de autor para desarrollos futuros está pendiente de asesoramiento legal y la revisión de las políticas de la UACM, esta licencia se considera provisional y podría ser modificada o complementada en el futuro una vez que se obtenga claridad sobre la propiedad intelectual del proyecto a largo plazo.
